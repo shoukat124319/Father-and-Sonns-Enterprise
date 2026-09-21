@@ -1,0 +1,6 @@
+{
+  "name": "Father and Sons Enterprises",
+  "description": "B2B garment manufacturing and customized clothing production for clothing brands, startups, and businesses with MOQ starting from 50 pieces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
